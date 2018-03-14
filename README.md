@@ -1,7 +1,7 @@
-Starter Environment
+Free Code Camp Tribute Page - Buddha
 ---
 
-What's set up here:
+Build System
 
 - Sass (LibSass)
 - Autoprefixer
