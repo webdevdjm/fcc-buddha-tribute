@@ -22,18 +22,14 @@ ol, ul {
 
 /* Using Materilize Framework */
 p {
-  font-size: 0.9em;
+  font-size: 1em;
   margin: 5px; }
-
-blockquote {
-  margin: 20px 0;
-  padding-left: 1.5rem;
-  border-left: 5px solid #0B4948; }
 
 a {
   color: #fff; }
-  a:hover {
-    font-weight: 700; }
+
+a:hover, a:active {
+  color: #555; }
 
 p.year {
   font-weight: bold; }
@@ -62,12 +58,20 @@ p.year {
   .timeline blockquote {
     max-width: 40%;
     font-style: italic;
-    font-size: 0.8em;
+    font-size: 0.9rem;
     position: absolute;
     left: 60%;
-    top: calc(50% - 60px); }
+    top: calc(50% - 60px);
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid #0B4948; }
     .timeline blockquote span {
       font-style: normal; }
+  .timeline .push-border-right {
+    border-right: 5px solid #0B4948;
+    border-left: none;
+    padding-left: 0;
+    padding-right: 1.5rem; }
   .timeline .left {
     left: 0; }
   .timeline .timeline-event {
@@ -131,4 +135,6 @@ p.year {
   .timeline .timeline-event:nth-child(odd) .timeline-content {
     margin-left: 70px; }
   .timeline .timeline-badge {
-    left: 0; } }
+    left: 0; }
+  blockquote {
+    display: none; } }
