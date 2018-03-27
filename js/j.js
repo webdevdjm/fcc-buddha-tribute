@@ -1,0 +1,1 @@
+var options=[{selector:"#image-test",offset:500,callback:function(e){Materialize.fadeInImage($(e))}}];Materialize.scrollFire(options);
