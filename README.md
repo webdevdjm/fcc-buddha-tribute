@@ -20,8 +20,10 @@ Build System
 ### About
 
 Project is part of the [FreeCodeCamp](https://www.freecodecamp.org) front-end certificate program.
-[Project Link](https://www.freecodecamp.org/challenges/build-a-tribute-page)
-As noted on the website, this was a learning project for implementing HTML and CSS. All content was copied and pasted from a [BBC Article](http://www.bbc.co.uk/timelines/zg8c9j6#z8stpv4). I take no credit for any of the content. 
+
+[Link to the Project](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+
+As noted on the site itself, this was a learning project for implementing HTML and CSS. All content was copied and pasted from a [BBC Article](http://www.bbc.co.uk/timelines/zg8c9j6#z8stpv4). I take no credit for any of the content. 
 I also took the opportunity to learn [Materialize CSS](http://materializecss.com). 
 Much of the timeline code was derived from [this Uplabs Article](https://www.uplabs.com/posts/responsive-materialize-timeline)
 

@@ -1,3 +1,4 @@
 node_modules/
 dist/
 .publish/
+scss/.DS_Store
